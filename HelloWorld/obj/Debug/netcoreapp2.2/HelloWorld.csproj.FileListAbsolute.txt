@@ -1,0 +1,22 @@
+/home/daniel/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.deps.json
+/home/daniel/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.runtimeconfig.json
+/home/daniel/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.runtimeconfig.dev.json
+/home/daniel/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.dll
+/home/daniel/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.pdb
+/home/daniel/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.csprojAssemblyReference.cache
+/home/daniel/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.csproj.CoreCompileInputs.cache
+/home/daniel/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.AssemblyInfoInputs.cache
+/home/daniel/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.AssemblyInfo.cs
+/home/daniel/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.dll
+/home/daniel/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.pdb
+/home/daniel/Área de Trabalho/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.deps.json
+/home/daniel/Área de Trabalho/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.runtimeconfig.json
+/home/daniel/Área de Trabalho/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.runtimeconfig.dev.json
+/home/daniel/Área de Trabalho/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.dll
+/home/daniel/Área de Trabalho/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.pdb
+/home/daniel/Área de Trabalho/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.csprojAssemblyReference.cache
+/home/daniel/Área de Trabalho/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.csproj.CoreCompileInputs.cache
+/home/daniel/Área de Trabalho/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.AssemblyInfoInputs.cache
+/home/daniel/Área de Trabalho/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.AssemblyInfo.cs
+/home/daniel/Área de Trabalho/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.dll
+/home/daniel/Área de Trabalho/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.pdb
